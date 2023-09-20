@@ -1,0 +1,1 @@
+SELECT supplier_id FROM purchase_orders WHERE supplier_id BETTWEEN 1 AND 3;
